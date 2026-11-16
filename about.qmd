@@ -1,0 +1,20 @@
+---
+title: "About"
+---
+
+## Our Team
+
+We are a group of students in the DSML course working together on our final project.
+This website introduces our team and each member.
+
+## Members
+
+### Jimmy Yu
+
+Hi, I'm Jimmy Yu (于京田). I'm an undergraduate at the University of Richmond, majoring in
+Business Administration and Chinese Studies / International Business, and I'm spending
+Fall 2026 as an exchange student at NCCU's College of Commerce in Taipei.
+
+Outside of class I enjoy building things with code: I run my own home server, make small
+games, and experiment with AI tools. I'm looking forward to learning more about data
+science and machine learning with this team.

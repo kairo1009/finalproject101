@@ -1,0 +1,7 @@
+---
+title: "finalproject101"
+---
+
+Welcome to our team website! This site introduces our group and each of our members.
+
+See the [About](about.qmd) page to meet the team.
