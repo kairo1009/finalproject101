@@ -16,3 +16,7 @@ and my major is Business.
 
 In my free time I love playing tennis and pickleball, and I also enjoy playing video games.
 My favorite singer is Jay Chou. I'm looking forward to working with this team!
+
+### Seymen
+
+Hi, I’m Seymen. I’m a student in the DSML course and a member of the Final Project 101 team. I’m helping build our team website as part of the Week 10 exercise. You can find me on GitHub as [SeyKiz](https://github.com/SeyKiz).
