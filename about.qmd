@@ -2,11 +2,6 @@
 title: "About"
 ---
 
-## Our Team
-
-We are a group of students in the DSML course working together on our final project.
-This website introduces our team and each member.
-
 ## Introductions by Seymen Kizilkaya
 
 ### Jimmy Yu
