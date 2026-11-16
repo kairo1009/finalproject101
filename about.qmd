@@ -26,3 +26,14 @@ Hi, I’m Seymen Kizilkaya. I’m Turkish, I live in Germany, and I study econom
 ### Subham Pradhan
 
 Subham is from India and studies international affairs. He enjoys judo, likes working out, and loves watching anime. His teammates think he’s pretty cool.
+
+### Seymen Kizilkaya
+
+Seymen is from Turkey and lives in Germany. He studies Economics at a university in
+Switzerland. He loves watching anime and football, and his favorite club is FC Barcelona.
+
+### Subham Pradhan
+
+Subham is from India and is studying International Affairs. He loves trying all kinds of
+different sports, and lately he has been learning judo and tai chi. He also works very hard
+at learning Chinese, and sometimes we even chat with each other in Chinese.
