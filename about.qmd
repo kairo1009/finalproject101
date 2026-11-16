@@ -11,15 +11,20 @@ This website introduces our team and each member.
 
 ### Jimmy Yu
 
-Jimmy is from China and lives in the United States. He enjoys trying new foods and has traveled to many countries. In his spare time, he likes programming games. His teammates describe him as kind and helpful.
+Jimmy is from China and lives in the United States. He enjoys trying new foods and has
+traveled to many countries. In his spare time, he likes programming games. His
+teammates describe him as kind and helpful.
 
 ### Seymen Kizilkaya
 
-Hi, I’m Seymen Kizilkaya. I’m Turkish, I live in Germany, and I study economics in Switzerland. I enjoy cooking and playing the piano. I also love playing and watching football.
+Hi, I’m Seymen Kizilkaya. I’m Turkish, I live in Germany, and I study economics in
+Switzerland. I enjoy cooking and playing the piano. I also love playing and watching
+football.
 
 ### Subham Pradhan
 
-Subham is from India and studies international affairs. He enjoys judo, likes working out, and loves watching anime. His teammates think he’s pretty cool.
+Subham is from India and studies international affairs. He enjoys judo, likes working
+out, and loves watching anime. His teammates think he’s pretty cool.
 
 ## Introductions by Jimmy Yu
 
