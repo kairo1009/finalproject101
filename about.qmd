@@ -11,10 +11,8 @@ This website introduces our team and each member.
 
 ### Jimmy Yu
 
-Hi, I'm Jimmy Yu (于京田). I'm an undergraduate at the University of Richmond, majoring in
-Business Administration and Chinese Studies / International Business, and I'm spending
-Fall 2026 as an exchange student at NCCU's College of Commerce in Taipei.
+Hi, I'm Jimmy Yu (于京田). I'm a junior from the University of Richmond in the United States,
+and my major is Business.
 
-Outside of class I enjoy building things with code: I run my own home server, make small
-games, and experiment with AI tools. I'm looking forward to learning more about data
-science and machine learning with this team.
+In my free time I love playing tennis and pickleball, and I also enjoy playing video games.
+My favorite singer is Jay Chou (周杰伦). I'm looking forward to working with this team!
