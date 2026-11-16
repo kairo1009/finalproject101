@@ -40,3 +40,21 @@ Switzerland. He loves watching anime and football, and his favorite club is FC B
 Subham is from India and is studying International Affairs. He loves trying all kinds of
 different sports, and lately he has been learning judo and tai chi. He also works very hard
 at learning Chinese, and sometimes we even chat with each other in Chinese.
+
+---
+
+## Introductions by Subham Pradhan
+
+### About Me
+
+Hi, I’m Subham Pradhan. I’m from India and study International Affairs. I enjoy trying
+different sports, and recently I’ve been learning judo and tai chi. I also love watching
+anime.
+
+### My Team
+
+Jimmy Yu is a junior at the University of Richmond in the United States, majoring in
+Business. He enjoys tennis, pickleball, and video games.
+
+Seymen Kizilkaya is Turkish, lives in Germany, and studies economics in Switzerland. He
+enjoys cooking, playing the piano, and football.

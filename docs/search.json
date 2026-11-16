@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "finalproject101",
+    "section": "",
+    "text": "Welcome to our team website! This site introduces our group and each of our members.\nSee the About page to meet the team."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Jimmy is from China and lives in the United States. He enjoys trying new foods and has traveled to many countries. In his spare time, he likes programming games. His teammates describe him as kind and helpful.\n\n\n\nHi, I’m Seymen Kizilkaya. I’m Turkish, I live in Germany, and I study economics in Switzerland. I enjoy cooking and playing the piano. I also love playing and watching football.\n\n\n\nSubham is from India and studies international affairs. He enjoys judo, likes working out, and loves watching anime. His teammates think he’s pretty cool."
+  },
+  {
+    "objectID": "about.html#introductions-by-seymen-kizilkaya",
+    "href": "about.html#introductions-by-seymen-kizilkaya",
+    "title": "About",
+    "section": "",
+    "text": "Jimmy is from China and lives in the United States. He enjoys trying new foods and has traveled to many countries. In his spare time, he likes programming games. His teammates describe him as kind and helpful.\n\n\n\nHi, I’m Seymen Kizilkaya. I’m Turkish, I live in Germany, and I study economics in Switzerland. I enjoy cooking and playing the piano. I also love playing and watching football.\n\n\n\nSubham is from India and studies international affairs. He enjoys judo, likes working out, and loves watching anime. His teammates think he’s pretty cool."
+  },
+  {
+    "objectID": "about.html#introductions-by-jimmy-yu",
+    "href": "about.html#introductions-by-jimmy-yu",
+    "title": "About",
+    "section": "Introductions by Jimmy Yu",
+    "text": "Introductions by Jimmy Yu\n\nAbout Me\nHi, I’m Jimmy Yu. I’m a junior from the University of Richmond in the United States, and my major is Business. In my free time I love playing tennis and pickleball, and I also enjoy playing video games. My favorite singer is Jay Chou. I’m looking forward to working with this team!\n\n\nSeymen Kizilkaya\nSeymen is from Turkey and lives in Germany. He studies Economics at a university in Switzerland. He loves watching anime and football, and his favorite club is FC Barcelona.\n\n\nSubham Pradhan\nSubham is from India and is studying International Affairs. He loves trying all kinds of different sports, and lately he has been learning judo and tai chi. He also works very hard at learning Chinese, and sometimes we even chat with each other in Chinese."
+  },
+  {
+    "objectID": "about.html#introductions-by-subham-pradhan",
+    "href": "about.html#introductions-by-subham-pradhan",
+    "title": "About",
+    "section": "Introductions by Subham Pradhan",
+    "text": "Introductions by Subham Pradhan\n\nAbout Me\nHi, I’m Subham Pradhan. I’m from India and study International Affairs. I enjoy trying different sports, and recently I’ve been learning judo and tai chi. I also love watching anime.\n\n\nMy Team\nJimmy Yu is a junior at the University of Richmond in the United States, majoring in Business. He enjoys tennis, pickleball, and video games.\nSeymen Kizilkaya is Turkish, lives in Germany, and studies economics in Switzerland. He enjoys cooking, playing the piano, and football."
+  }
+]
